@@ -12,7 +12,7 @@
 
 ## Super simple to use
 
-First this is come from other app maked in Sinatra/Ruby. The propose is create a simples webapp to check health link from another webapps and showing in the pretty funny way.
+First this is come from other app maked in Sinatra/Ruby that I and Guilherme Souza did. The propose is create a simples webapp to check health link from another webapps and showing in the pretty funny way.
 
 
 #### First steps
