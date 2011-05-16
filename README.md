@@ -22,11 +22,11 @@ For the moment there's nothing implemented. I'm just look around NodeJS and some
 The goals are:
 
 * `very simple to use and configure` - I want to do something simples and very quickly to start. 
-* `Rich and Funny interface` - There's much many other tools for this, but none of them is pretty or funny. I really want doing an interface that you like see every time
+* `Rich and Funny interface` - There's a lot of other tools for this, but none of them is pretty or funny. I really want create an interface that you like see every time
 
 
 
-**Notice for 2.0**
+**Notice**
 
 I not implement yet. This for my studies about NodeJS. 
 
